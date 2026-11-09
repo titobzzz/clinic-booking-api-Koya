@@ -1,0 +1,5 @@
+node_modules/
+.env
+NOTES.txt
+CODE_GUIDE.txt
+SCRIPT.txt
